@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-color: #2a6f84;
+    overflow: hidden;
+}
+
+#level-title {
+    font-family: cursive;
+    font-size: 3.25rem;
+    margin: 2%;
+    color: rgb(230, 230, 173);
+}
+
+.container {
+    display: block;
+    width: 50%;
+    margin: auto;
+}
+
+.btn{
+    cursor: pointer;
+    outline: none;
+    margin: 25px;
+    display: inline-block;
+    color: transparent;
+    height: 200px;
+    width: 200px;
+    border: none;
+    border-radius: 20%;
+    box-shadow:  20px 20px 50px black;
+}
+
+.green {
+    background-color:  green;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
