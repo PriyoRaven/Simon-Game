@@ -56,14 +56,14 @@ body{
 }
 
 .green {
-    background-color:  green;
+    background:  radial-gradient(rgb(128, 255, 119),rgb(94, 255, 0));
 }
 .red{
-    background-color: red;
+    background: radial-gradient(rgb(255, 82, 82), rgb(255, 0, 0));
 }
 .yellow{
-    background-color: yellow;
+    background: radial-gradient(rgb(255, 240, 140), rgb(229, 255, 0));
 }
 .blue{
-    background-color: blue;
+    background: radial-gradient(rgb(90, 81, 255),rgb(0, 21, 255));
 }
